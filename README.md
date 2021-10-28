@@ -14,6 +14,8 @@ Lenguaje utilizado:
 
   -Angular
   
+  -JavaScript
+  
   -HTML(Etiquetas)
   
   -CSS (Estilos)
