@@ -23,3 +23,9 @@ Lenguaje utilizado:
 Servicio:
 
 -API REST
+
+Instalaciones:
+
+-Node.js
+
+-Andorid studio
